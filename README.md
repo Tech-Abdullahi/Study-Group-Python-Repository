@@ -1,8 +1,8 @@
-# Study Group Python Repository 
+## Study Group Python Repository 
 
 Welcome to Study Group Python Repository! This repository is dedicated to helping learners dive into Python programming and enhance their skills.
 
-**About**
+### About
 The Study Group Python Repository is a curated collection of Python scripts, exercises, and projects aimed at providing a structured learning path for beginners and intermediate Python programmers. Whether you're looking to learn Python from scratch or deepen your understanding of specific concepts, this repository is your one-stop destination.
 To achieve your goal, learn to use your imagination, and raise your thinking to a higher level. Your imagination is going to motivate you to move in the direction of your dreams
 
